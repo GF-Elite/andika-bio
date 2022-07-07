@@ -1,5 +1,5 @@
 <h1>About</h1>
-<p>Andika adalah seorang programmer yang berasal dari medan, sumatra utara, Indonesia ðŸ‡®ðŸ‡©</p>
+<p>Andika adalah seorang programmer yang berasal dari medan, sumatra utara, Indonesia 🇮🇩</p>
 <h1>Suport me on</h1>
 <ul>
    <li><a href="https://www.facebook.com/kananda.widiantara.50/">Facebook</a></li>
